@@ -1,1 +1,1 @@
-sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler
+sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler node_modules/font-awesome/scss:node_modules/font-awesome/css style/scss:style/css
